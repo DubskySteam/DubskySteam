@@ -1,5 +1,6 @@
 [![](https://img.shields.io/badge/Friend%20Code-144348907-white?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/dubskyplays)
 [![](https://img.shields.io/badge/Discord-Open-blue?style=for-the-badge&logo=discord)](https://discord.gg/Dg9Hv7j)
+___
 ### Knowledge
 ![](https://img.shields.io/badge/Java-Good-blue?style=for-the-badge&logo=Java)
 ![](https://img.shields.io/badge/Spring-Good-blue?style=for-the-badge&logo=Spring)
