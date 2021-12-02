@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubskysteam&count_private=true&show_icons=true&theme=dark)
 ### Connections
 [![](https://img.shields.io/badge/Steam-144348907-white?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/dubskyplays)
 [![](https://img.shields.io/badge/Discord-Open-blue?style=for-the-badge&logo=discord)](https://discord.gg/Dg9Hv7j)
