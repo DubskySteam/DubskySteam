@@ -24,10 +24,10 @@ ___
 ### Languages & Frameworks
 <div style="display: inline-block">
   <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/50/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png"/>
-  <img src="https://img.icons8.com/color/50/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/50/000000/spring-logo.png"/>
   <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/50/000000/css3.png"/>
