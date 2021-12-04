@@ -25,7 +25,6 @@ ___
   <img src="https://img.icons8.com/color/48/000000/circleci.png"/>
   <img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_apache_icon_130750.png" style="width: 48px; height: 48px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" style="width: 48px; height: 48px"/>
 </div>
 
 ___
