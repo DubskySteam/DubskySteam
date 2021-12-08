@@ -33,7 +33,6 @@ ___
   <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
   <img src="https://img.icons8.com/color/50/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-shadow-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png"/>
