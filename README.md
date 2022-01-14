@@ -10,6 +10,11 @@
 ![](https://img.shields.io/badge/Server-Ubuntu%2020.04-orange?style=for-the-badge&logo=Ubuntu)
 ![](https://img.shields.io/badge/OS-Manjaro%20KDE-green?style=for-the-badge&logo=manjaro)
   
+  <a href="https://gist.github.com/DubskySteam/bdc2071ded20eddf7328aa5398bbf02a">![](https://img.shields.io/badge/Shell-Power%20Shell%207%20+%20Oh%20My%20Posh-purple?style=for-the-badge&logo=oh-my-posh)
+  </a>
+  
+
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c.maas.acc&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ___
 <h3>Tools</h3>
