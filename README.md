@@ -1,4 +1,4 @@
-![image](https://github.com/DubskySteam/DubskySteam/assets/23001099/3565bc57-fe4c-4361-a9f4-44ed2a4bc7da)<div align="center">
+<div align="center">
 <div style="display: inline-block">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubskysteam&count_private=true&show_icons=true&theme=dark)
