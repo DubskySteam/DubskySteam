@@ -29,7 +29,6 @@ ___
   <img src="https://img.icons8.com/color/50/000000/figma--v1.png"/>
 </div>
 
-___
 <h3>Languages</h3>
 <div style="display: inline-block">
   <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
