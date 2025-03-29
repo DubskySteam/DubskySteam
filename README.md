@@ -39,10 +39,10 @@ struct Project {
 
 fn main() {
     let projects = vec![
-        Project { name: "Aiko", description: "Anime desktop app" },
-        Project { name: "Workflow", description: "Optimizing my workspace" },
-        Project { name: "Kernel", description: "Learning kernel development" },
-        Project { name: "Embedded", description: "Working with embedded systems" },
+        Project { name: "Aiko", description: "Cross-plattform desktop app for Anime" },
+        Project { name: "Workflow", description: "Optimizing my workspace and workflows" },
+        Project { name: "Kernel", description: "Learning about kernel development" },
+        Project { name: "Embedded", description: "Diving more into embedded systems" },
     ];
     
     println!("Current Projects:");
